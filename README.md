@@ -1,7 +1,6 @@
 # WI4231-MathematicalDataScience
 Assignment 2
 
-- Form a group of 5 and send me an e-mail (d.kurowicka@tudelft.nl) with names and student numbers of students in each group.
 - Choose one year of data http://www.trumptwitterarchive.com/archive: 2016
 - First you have to pre-prepare the file (remove stopwords, do stemming etc… to extract the text for the analysis where you have only ‘important’ words and similar words are identified) *Keep this pre-prepared file as it will be used on other assignment later on in this course*
 - Analyse these tweets (check if everything went well with stem procedure by comparing original tweets and words after stemming, analyse the most frequent words etc. )
